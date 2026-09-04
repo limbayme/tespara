@@ -1,0 +1,49 @@
+{
+  "set_id": "a2da6a1e-4cbe-48cb-be01-0e606a397abc",
+  "template_id": "listing.custom-pdp.v1",
+  "channel": "custom_pdp",
+  "items": [
+    {
+      "index": 1,
+      "slot": "首屏主视觉",
+      "filename": "商品身份_木制猫树塔_外观与材质_39_3英寸现_custom_pdp_01_首屏主视觉.png",
+      "asset_id": "ca3bc8b0-18b3-4bf9-a217-2088967f80b9"
+    },
+    {
+      "index": 2,
+      "slot": "核心价值",
+      "filename": "商品身份_木制猫树塔_外观与材质_39_3英寸现_custom_pdp_02_核心价值.png",
+      "asset_id": "76191015-c449-4a27-a433-90bf78e4a445"
+    },
+    {
+      "index": 3,
+      "slot": "材质细节",
+      "filename": "商品身份_木制猫树塔_外观与材质_39_3英寸现_custom_pdp_03_材质细节.png",
+      "asset_id": "1418b321-1339-45ab-b77f-1553541d245e"
+    },
+    {
+      "index": 4,
+      "slot": "生活方式",
+      "filename": "商品身份_木制猫树塔_外观与材质_39_3英寸现_custom_pdp_04_生活方式.png",
+      "asset_id": "7b42f87c-c217-460b-8039-e22131422342"
+    },
+    {
+      "index": 5,
+      "slot": "尺寸尺度",
+      "filename": "商品身份_木制猫树塔_外观与材质_39_3英寸现_custom_pdp_05_尺寸尺度.png",
+      "asset_id": "ea7eb796-d7e5-434a-a6a5-07e2bbd3ef8b"
+    },
+    {
+      "index": 6,
+      "slot": "对比留白",
+      "filename": "商品身份_木制猫树塔_外观与材质_39_3英寸现_custom_pdp_06_对比留白.png",
+      "asset_id": "4460f638-84e1-4865-add4-a68883f726c1"
+    },
+    {
+      "index": 7,
+      "slot": "品牌氛围",
+      "filename": "商品身份_木制猫树塔_外观与材质_39_3英寸现_custom_pdp_07_品牌氛围.png",
+      "asset_id": "d35e985a-99e0-4695-9dc9-330d486a555e"
+    }
+  ]
+}
