@@ -1,0 +1,49 @@
+{
+  "set_id": "96f023ac-eae3-46db-97f0-7ebb3d69a1d0",
+  "template_id": "listing.custom-pdp.v1",
+  "channel": "custom_pdp",
+  "items": [
+    {
+      "index": 1,
+      "slot": "首屏主视觉",
+      "filename": "商品身份_木质宠物笼_外观与材质_主体为木色_带_custom_pdp_01_首屏主视觉.png",
+      "asset_id": "2597db73-390e-4948-aafb-a9f8c626c0bd"
+    },
+    {
+      "index": 2,
+      "slot": "核心价值",
+      "filename": "商品身份_木质宠物笼_外观与材质_主体为木色_带_custom_pdp_02_核心价值.png",
+      "asset_id": "68e7d424-c48d-40fa-a6a8-5054b65f7855"
+    },
+    {
+      "index": 3,
+      "slot": "材质细节",
+      "filename": "商品身份_木质宠物笼_外观与材质_主体为木色_带_custom_pdp_03_材质细节.png",
+      "asset_id": "8254a5ed-7cf9-4d83-88fa-a0b96194c6ec"
+    },
+    {
+      "index": 4,
+      "slot": "生活方式",
+      "filename": "商品身份_木质宠物笼_外观与材质_主体为木色_带_custom_pdp_04_生活方式.png",
+      "asset_id": "641917a6-dbc8-4701-9257-825ae5db08ce"
+    },
+    {
+      "index": 5,
+      "slot": "尺寸尺度",
+      "filename": "商品身份_木质宠物笼_外观与材质_主体为木色_带_custom_pdp_05_尺寸尺度.png",
+      "asset_id": "588e167f-b009-4144-b772-03b4800dc17c"
+    },
+    {
+      "index": 6,
+      "slot": "使用方式",
+      "filename": "商品身份_木质宠物笼_外观与材质_主体为木色_带_custom_pdp_06_使用方式.png",
+      "asset_id": "8ebf6974-9926-416d-bd5b-3ace932c3d62"
+    },
+    {
+      "index": 7,
+      "slot": "对比留白",
+      "filename": "商品身份_木质宠物笼_外观与材质_主体为木色_带_custom_pdp_07_对比留白.png",
+      "asset_id": "36320d1f-1619-409c-95a4-86ecb0aee900"
+    }
+  ]
+}

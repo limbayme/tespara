@@ -1,0 +1,49 @@
+{
+  "set_id": "f37c45ff-58aa-463f-90c3-5a8adc79a5d2",
+  "template_id": "listing.custom-pdp.v1",
+  "channel": "custom_pdp",
+  "items": [
+    {
+      "index": 1,
+      "slot": "首屏主视觉",
+      "filename": "商品身份_猫爬架_外观与材质_整体为棕色_有多层_custom_pdp_01_首屏主视觉.png",
+      "asset_id": "894d7b05-dd68-4066-b977-2c7855998770"
+    },
+    {
+      "index": 2,
+      "slot": "核心价值",
+      "filename": "商品身份_猫爬架_外观与材质_整体为棕色_有多层_custom_pdp_02_核心价值.png",
+      "asset_id": "f310a5ab-2041-4825-9ce0-ade88aa67596"
+    },
+    {
+      "index": 3,
+      "slot": "材质细节",
+      "filename": "商品身份_猫爬架_外观与材质_整体为棕色_有多层_custom_pdp_03_材质细节.png",
+      "asset_id": "66842250-fb56-4fae-adc3-85ebec5225b4"
+    },
+    {
+      "index": 4,
+      "slot": "生活方式",
+      "filename": "商品身份_猫爬架_外观与材质_整体为棕色_有多层_custom_pdp_04_生活方式.png",
+      "asset_id": "21b5846c-4002-454f-acd9-3ed3f44bc62a"
+    },
+    {
+      "index": 5,
+      "slot": "尺寸尺度",
+      "filename": "商品身份_猫爬架_外观与材质_整体为棕色_有多层_custom_pdp_05_尺寸尺度.png",
+      "asset_id": "e8f22dbc-f3dd-43f8-b7c6-efe0df7a5a21"
+    },
+    {
+      "index": 6,
+      "slot": "使用方式",
+      "filename": "商品身份_猫爬架_外观与材质_整体为棕色_有多层_custom_pdp_06_使用方式.png",
+      "asset_id": "dfb716e3-1010-402d-ac2e-68e597dc2860"
+    },
+    {
+      "index": 7,
+      "slot": "对比留白",
+      "filename": "商品身份_猫爬架_外观与材质_整体为棕色_有多层_custom_pdp_07_对比留白.png",
+      "asset_id": "a66710df-2e72-4a29-a1a3-a6da99fa19e6"
+    }
+  ]
+}

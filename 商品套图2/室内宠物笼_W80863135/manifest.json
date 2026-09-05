@@ -1,0 +1,49 @@
+{
+  "set_id": "5dc4e014-e6ac-4ac8-864a-484d434e3a48",
+  "template_id": "listing.custom-pdp.v1",
+  "channel": "custom_pdp",
+  "items": [
+    {
+      "index": 1,
+      "slot": "首屏主视觉",
+      "filename": "商品身份_室内宠物笼_外观与材质_整体为白色_有_custom_pdp_01_首屏主视觉.png",
+      "asset_id": "8c1c6e3b-2fa5-4617-91d3-0c76cb2e40ac"
+    },
+    {
+      "index": 2,
+      "slot": "核心价值",
+      "filename": "商品身份_室内宠物笼_外观与材质_整体为白色_有_custom_pdp_02_核心价值.png",
+      "asset_id": "ca329b78-e11f-4cca-8548-89a57da8c1fa"
+    },
+    {
+      "index": 3,
+      "slot": "材质细节",
+      "filename": "商品身份_室内宠物笼_外观与材质_整体为白色_有_custom_pdp_03_材质细节.png",
+      "asset_id": "44bf1d61-6a21-49b2-b9db-137f5ffaee09"
+    },
+    {
+      "index": 4,
+      "slot": "生活方式",
+      "filename": "商品身份_室内宠物笼_外观与材质_整体为白色_有_custom_pdp_04_生活方式.png",
+      "asset_id": "0e12bb92-1e9d-4d33-b522-9a640951527f"
+    },
+    {
+      "index": 5,
+      "slot": "尺寸尺度",
+      "filename": "商品身份_室内宠物笼_外观与材质_整体为白色_有_custom_pdp_05_尺寸尺度.png",
+      "asset_id": "d21f4487-7758-4319-84d3-c2be843fc92c"
+    },
+    {
+      "index": 6,
+      "slot": "使用方式",
+      "filename": "商品身份_室内宠物笼_外观与材质_整体为白色_有_custom_pdp_06_使用方式.png",
+      "asset_id": "5f9d1ef3-286c-4b3b-8860-1299abe2e1da"
+    },
+    {
+      "index": 7,
+      "slot": "对比留白",
+      "filename": "商品身份_室内宠物笼_外观与材质_整体为白色_有_custom_pdp_07_对比留白.png",
+      "asset_id": "0ab98445-576e-4e2e-b00e-b298f078a5e4"
+    }
+  ]
+}

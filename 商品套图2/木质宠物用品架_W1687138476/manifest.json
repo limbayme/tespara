@@ -1,0 +1,49 @@
+{
+  "set_id": "3b0befee-df57-4092-a161-7ee44a52f84b",
+  "template_id": "listing.custom-pdp.v1",
+  "channel": "custom_pdp",
+  "items": [
+    {
+      "index": 1,
+      "slot": "首屏主视觉",
+      "filename": "商品身份_木质宠物用品架_外观与材质_主体为黑色_custom_pdp_01_首屏主视觉.png",
+      "asset_id": "69e9b008-a42c-452f-9edf-36ea824c275f"
+    },
+    {
+      "index": 2,
+      "slot": "核心价值",
+      "filename": "商品身份_木质宠物用品架_外观与材质_主体为黑色_custom_pdp_02_核心价值.png",
+      "asset_id": "98019f08-9f72-4792-9819-eb239a6cf040"
+    },
+    {
+      "index": 3,
+      "slot": "材质细节",
+      "filename": "商品身份_木质宠物用品架_外观与材质_主体为黑色_custom_pdp_03_材质细节.png",
+      "asset_id": "271d857c-9704-4c0c-8ed4-413cbace677e"
+    },
+    {
+      "index": 4,
+      "slot": "生活方式",
+      "filename": "商品身份_木质宠物用品架_外观与材质_主体为黑色_custom_pdp_04_生活方式.png",
+      "asset_id": "f9a06f8a-1a89-4c42-a633-b579679cfded"
+    },
+    {
+      "index": 5,
+      "slot": "尺寸尺度",
+      "filename": "商品身份_木质宠物用品架_外观与材质_主体为黑色_custom_pdp_05_尺寸尺度.png",
+      "asset_id": "764a7758-ad07-4804-abc8-690a5a59d5d4"
+    },
+    {
+      "index": 6,
+      "slot": "使用方式",
+      "filename": "商品身份_木质宠物用品架_外观与材质_主体为黑色_custom_pdp_06_使用方式.png",
+      "asset_id": "724b3268-827f-4465-9160-ef18c41b96e6"
+    },
+    {
+      "index": 7,
+      "slot": "对比留白",
+      "filename": "商品身份_木质宠物用品架_外观与材质_主体为黑色_custom_pdp_07_对比留白.png",
+      "asset_id": "990f9152-4938-47dc-aaff-2b51a56b9348"
+    }
+  ]
+}
