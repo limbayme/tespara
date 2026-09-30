@@ -1,0 +1,61 @@
+{
+  "set_id": "6cb68a3b-2832-4a54-a473-ef9a673481cc",
+  "template_id": "listing.shopify-pdp-nine.v1",
+  "channel": "shopify_pdp",
+  "items": [
+    {
+      "index": 1,
+      "slot": "首屏主视觉",
+      "filename": "商品身份_多层猫爬架_外观与材质_防护栏整体为白_shopify_pdp_01_首屏主视觉.png",
+      "asset_id": "eebfa3d4-a492-487a-b3a0-c76f01fffd82"
+    },
+    {
+      "index": 2,
+      "slot": "核心价值",
+      "filename": "商品身份_多层猫爬架_外观与材质_防护栏整体为白_shopify_pdp_02_核心价值.png",
+      "asset_id": "f80c472c-1ea2-4d5d-99dd-73c5380e69f8"
+    },
+    {
+      "index": 3,
+      "slot": "材质细节",
+      "filename": "商品身份_多层猫爬架_外观与材质_防护栏整体为白_shopify_pdp_03_材质细节.png",
+      "asset_id": "7939069b-0584-4c1f-8445-c2ceb8c57674"
+    },
+    {
+      "index": 4,
+      "slot": "尺寸尺度",
+      "filename": "商品身份_多层猫爬架_外观与材质_防护栏整体为白_shopify_pdp_04_尺寸尺度.png",
+      "asset_id": "9f6b075d-d729-4f3c-a994-e330fffe297c"
+    },
+    {
+      "index": 5,
+      "slot": "使用方式",
+      "filename": "商品身份_多层猫爬架_外观与材质_防护栏整体为白_shopify_pdp_05_使用方式.png",
+      "asset_id": "0a6f3380-3e28-4605-99ac-47321ec177de"
+    },
+    {
+      "index": 6,
+      "slot": "生活方式",
+      "filename": "商品身份_多层猫爬架_外观与材质_防护栏整体为白_shopify_pdp_06_生活方式.png",
+      "asset_id": "bf838f39-8194-4e9d-80dd-ead6a910c8fc"
+    },
+    {
+      "index": 7,
+      "slot": "对比留白",
+      "filename": "商品身份_多层猫爬架_外观与材质_防护栏整体为白_shopify_pdp_07_对比留白.png",
+      "asset_id": "a0b540b3-4c9b-4daf-904a-96877a67674f"
+    },
+    {
+      "index": 8,
+      "slot": "品牌氛围",
+      "filename": "商品身份_多层猫爬架_外观与材质_防护栏整体为白_shopify_pdp_08_品牌氛围.png",
+      "asset_id": "e52b227c-e7f9-4614-8480-203acae6cb0c"
+    },
+    {
+      "index": 9,
+      "slot": "转化收口",
+      "filename": "商品身份_多层猫爬架_外观与材质_防护栏整体为白_shopify_pdp_09_转化收口.png",
+      "asset_id": "5460762c-b046-49b7-9058-db0be92f9366"
+    }
+  ]
+}

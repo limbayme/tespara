@@ -1,0 +1,61 @@
+{
+  "set_id": "1fd5962e-b27d-440a-91fc-48006caf5254",
+  "template_id": "listing.shopify-pdp-nine.v1",
+  "channel": "shopify_pdp",
+  "items": [
+    {
+      "index": 1,
+      "slot": "首屏主视觉",
+      "filename": "商品身份_可伸缩宠物隔离门栏_外观与材质_防护栏_shopify_pdp_01_首屏主视觉.png",
+      "asset_id": "c6ee4d2c-9ed7-463d-a716-e085298f3798"
+    },
+    {
+      "index": 2,
+      "slot": "核心价值",
+      "filename": "商品身份_可伸缩宠物隔离门栏_外观与材质_防护栏_shopify_pdp_02_核心价值.png",
+      "asset_id": "2414f815-e00b-42b3-9dd6-414f6588cf10"
+    },
+    {
+      "index": 3,
+      "slot": "材质细节",
+      "filename": "商品身份_可伸缩宠物隔离门栏_外观与材质_防护栏_shopify_pdp_03_材质细节.png",
+      "asset_id": "52f0ef43-bb4a-48ba-bec8-92d1255d0a65"
+    },
+    {
+      "index": 4,
+      "slot": "尺寸尺度",
+      "filename": "商品身份_可伸缩宠物隔离门栏_外观与材质_防护栏_shopify_pdp_04_尺寸尺度.png",
+      "asset_id": "bb0f8211-c029-488e-bc8a-707e03bc1025"
+    },
+    {
+      "index": 5,
+      "slot": "使用方式",
+      "filename": "商品身份_可伸缩宠物隔离门栏_外观与材质_防护栏_shopify_pdp_05_使用方式.png",
+      "asset_id": "f43a47d2-9b6e-4567-b3a7-f26481197bd6"
+    },
+    {
+      "index": 6,
+      "slot": "生活方式",
+      "filename": "商品身份_可伸缩宠物隔离门栏_外观与材质_防护栏_shopify_pdp_06_生活方式.png",
+      "asset_id": "791d5e2c-437e-4fe5-af22-f050fd713903"
+    },
+    {
+      "index": 7,
+      "slot": "对比留白",
+      "filename": "商品身份_可伸缩宠物隔离门栏_外观与材质_防护栏_shopify_pdp_07_对比留白.png",
+      "asset_id": "07ff1026-6a9b-4ddc-88cf-65f32e52813f"
+    },
+    {
+      "index": 8,
+      "slot": "品牌氛围",
+      "filename": "商品身份_可伸缩宠物隔离门栏_外观与材质_防护栏_shopify_pdp_08_品牌氛围.png",
+      "asset_id": "76b14420-261b-4d39-85dd-e6340228c2f2"
+    },
+    {
+      "index": 9,
+      "slot": "转化收口",
+      "filename": "商品身份_可伸缩宠物隔离门栏_外观与材质_防护栏_shopify_pdp_09_转化收口.png",
+      "asset_id": "a550d647-212b-4aaf-aafb-748dfe9c03bb"
+    }
+  ]
+}
